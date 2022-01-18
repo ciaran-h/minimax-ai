@@ -1,6 +1,6 @@
 # Minimax AI
 
-**Original Date**: Summer 2017
+**Project Date**: Summer 2017
 
 A MATLAB implementation of negamax with alpha-beta pruning for Tic-Tac-Toe and Connect 4.
 
